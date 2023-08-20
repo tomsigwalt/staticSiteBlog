@@ -1,6 +1,5 @@
 backend:
   name: git-gateway
-  repo: tomsigwalt/staticSiteBlog
   branch: main
 media_folder: "public/assets/blog"
 public_folder: "/assets/blog"
