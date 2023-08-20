@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: /github.com/tomsigwalt/staticSiteBlog
-  branch: main
+  branch: master
 media_folder: "public/assets/blog"
 public_folder: "/assets/blog"
 collections: 
