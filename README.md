@@ -1,3 +1,9 @@
+#Thomas Sigwalt: Goals
+
+I wanted a blog to post my progress as a developer. I came across Kevin Powell's video on creating a personal blog and it spoke to me. This would be a new and challanging project unlike any I have tried before. Currently, I am pushing myself to try more projects outside of my comfort zone so I can learn more.
+
+-----------------------------------------------------------
+
 # JAMStack personal blog - starter files
 
 These are the starting files used by [Kevin Powell](https://kevinpowell.co) to create a personal blog site for the [Codementor](https://www.codementor.io/) DevProjects Challenge, [Create a fast and secure blog using JAMStack](https://www.codementor.io/projects/web/create-a-fast-and-secure-blog-using-jamstack-c93coupnxb). You are free to use them however you want to get started with the challenge, if you'd like to start working on creating the site without worrying about the content itself.
