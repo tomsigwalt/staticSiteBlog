@@ -1,4 +1,4 @@
-#Thomas Sigwalt: Goals
+# Thomas Sigwalt: Goals
 
 I wanted a blog to post my progress as a developer. I came across Kevin Powell's video on creating a personal blog and it spoke to me. This would be a new and challanging project unlike any I have tried before. Currently, I am pushing myself to try more projects outside of my comfort zone so I can learn more.
 
